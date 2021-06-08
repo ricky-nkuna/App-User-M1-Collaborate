@@ -30,27 +30,27 @@
 	{
 		"Mention": "Sciences Technologies et Santé",
 		"Lieu": "Université des Antilles en Martinique",
-    "Licences Professionnelles": {
-      "DSI": {
-        "Bio-industries et biotechnologies": [],
-        "Maîtrise de l’énergie, électricité, développement durable": [],
-        "Métiers de l’informatique": []
-      }
-    },
-    "Licence": {
-      "DSI": {
-        "Mathématiques": [
-          "Mathématiques générales",
-          "Mathématiques, informatique, aide à la décision"
-        ],
-        "Science de la vie": [
-          "Biologie de la santé",
-          "Science de la Terre et de l’Univers"
-        ],
-        "Physique-chimie": [
-          "Matière, énergie et environnement"
-        ]
-      }
-    }
+		"Licences Professionnelles": {
+			"DSI": {
+				"Bio-industries et biotechnologies": [],
+				"Maîtrise de l’énergie, électricité, développement durable": [],
+				"Métiers de l’informatique": []
+			}
+		},
+		"Licence": {
+			"DSI": {
+				"Mathématiques": [
+					"Mathématiques générales",
+					"Mathématiques, informatique, aide à la décision"
+				],
+				"Science de la vie": [
+					"Biologie de la santé",
+					"Science de la Terre et de l’Univers"
+				],
+				"Physique-chimie": [
+					"Matière, énergie et environnement"
+				]
+			}
+		}
 	}
 ]
