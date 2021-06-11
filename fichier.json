@@ -64,6 +64,43 @@
 		"Poursuite d'etudes": "La licence de mathématiques débouche sur des masters préparant...",
 		"Debouchés": "Les domaines couverts par les mathématiques sont très...",
 		"Contacts": "Département Scientifique Interfacultaire",
-		"Programme": {}
+    "Programme": {
+      "Semestre 1": {
+        "UE Transv": {
+          "Anglais": {
+            "CM": 0,
+            "TD": 24,
+            "TP ": 0
+          },
+          "OIM": {
+            "CM": 0,
+            "TD": 12,
+            "TP ": 0
+          }
+        },
+        "Mise à niveau UEO 11 (4 EC)": {
+          "EC1 Maths 1A-Analyse (Commun PC/SV)": {
+            "CM": 14,
+            "TD": 14,
+            "TP ": 0
+          }
+        }
+      },
+      "Semestre 2": {
+        "UE Transv": {
+          "Anglais": {
+            "CM": 0,
+            "TD": 24,
+            "TP ": 0
+          },
+          "OIM": {
+            "CM": 0,
+            "TD": 12,
+            "TP ": 0
+          }
+        }
+      }
+    }
+
 	}
 ]
