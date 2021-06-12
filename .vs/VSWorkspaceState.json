@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\angularVersion",
+    "\\angularVersion\\app",
+    "\\angularVersion\\app\\formation"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\angularVersion\\app\\formation\\liste-formation.js",
   "PreviewInSolutionExplorer": false
 }

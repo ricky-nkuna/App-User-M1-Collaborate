@@ -1,0 +1,105 @@
+[
+	{
+		"Mention": "Arts Lettres et Sciences Humaines",
+		"Lieu": "Université des Antilles en Martinique",
+		"Licences Professionnelles": {
+			"FLSH": {
+				"Métiers de la médiation par des approches artistiques et culturelles": [],
+				"Guide-conférencier": []
+			}
+		}
+	},
+	{
+		"Mention": "Droit Économie et Gestion",
+		"Lieu": "Université des Antilles en Martinique",
+		"Licences Professionnelles": {
+			"FDEG": {
+				"Assurance banque finance chargé de clientèle": [],
+				"Activités juridiques : métiers du droit de l’environnement": [],
+				"Activités juridiques: assistant juridique": [],
+				"Métiers de la qualité": [],
+				"Gestion des organisations de l’économie sociale et solidaire": []
+			},
+			"IUT de Martinique": {
+				"Logistique et pilotage des flux": [],
+				"Commerce et distribution": [],
+				"Management et gestion des organisations": []
+			}
+		}
+	},
+	{
+		"Mention": "Sciences Technologies et Santé",
+		"Lieu": "Université des Antilles en Martinique",
+		"Licences Professionnelles": {
+			"DSI": {
+				"Bio-industries et biotechnologies": [],
+				"Maîtrise de l’énergie, électricité, développement durable": [],
+				"Métiers de l’informatique": []
+			}
+		},
+		"Licence": {
+			"DSI": {
+				"Mathématiques": [
+					"Mathématiques générales",
+					"Mathématiques, informatique, aide à la décision"
+				],
+				"Science de la vie": [
+					"Biologie de la santé",
+					"Science de la Terre et de l’Univers"
+				],
+				"Physique-chimie": [
+					"Matière, énergie et environnement"
+				]
+			}
+		}
+	},
+	{
+		"Mention": "Sciences Technologies et Santé",
+		"Intitulé": "Mathématiques",
+		"Niveau": "Licence",
+		"Lieu": "Université des Antilles en Martinique",
+		"Objectif de la formation": "C’est une formation scientifique destinée ...",
+		"Admission pre requis": "Baccalauréat S fortement recommandé...",
+		"Organisation des etudes": "La licence STS mention MATHS se déroule en 3 ans...",
+		"Poursuite d'etudes": "La licence de mathématiques débouche sur des masters préparant...",
+		"Debouchés": "Les domaines couverts par les mathématiques sont très...",
+		"Contacts": "Département Scientifique Interfacultaire",
+		"Programme": {
+			"Semestre 1": {
+				"UE Transv": {
+					"Anglais": {
+						"CM": 0,
+						"TD": 24,
+						"TP ": 0
+					},
+					"OIM": {
+						"CM": 0,
+						"TD": 12,
+						"TP ": 0
+					}
+				},
+				"Mise à niveau UEO 11 (4 EC)": {
+					"EC1 Maths 1A-Analyse (Commun PC/SV)": {
+						"CM": 14,
+						"TD": 14,
+						"TP ": 0
+					}
+				}
+			},
+			"Semestre 2": {
+				"UE Transv": {
+					"Anglais": {
+						"CM": 0,
+						"TD": 24,
+						"TP ": 0
+					},
+					"OIM": {
+						"CM": 0,
+						"TD": 12,
+						"TP ": 0
+					}
+				}
+			}
+		}
+	}
+]
